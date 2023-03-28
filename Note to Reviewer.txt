@@ -1,0 +1,22 @@
+Dear reviewer,
+
+I have loaded the following users on the database for testing purpose:
+
+- You are welcome to register more users
+
+News Management
+username:	ossygt3@cooltech.com
+password:	Tzeuguly786
+
+Hardware reviews
+username:	ifoo777@cooltech.com
+password:	cool@1234
+
+Opinion Publishing
+username:	peter@cooltech.com
+password:	Peter@1234
+
+
+Software reviews
+username:	test@cooltech.com
+password:	aaaaaaaaaaa
